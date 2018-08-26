@@ -1,0 +1,14 @@
+Utterance	Intent
+Hi there!	Greeting
+How's it going?	Greeting
+What's good?	Greeting
+Hello there	Greeting
+Hello	Greeting
+Hi, nice to meet you	Greeting
+Hey, how's everything?	Greeting
+See you later	Goodbye
+Take care	Goodbye
+Bye	Goodbye
+Goodbye	Goodbye
+Later	Goodbye
+Talk to you later	Goodbye
